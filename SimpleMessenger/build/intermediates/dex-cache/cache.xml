@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/sushmitasinha/Documents/SimpleMessenger/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a3a05d2df0dd8306803fc752f1b97cc01e586ef5">
+        <dex dex="/Users/sushmitasinha/Documents/SimpleMessenger/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_e4075ac522b199213fdeb561bc46f559cee25c2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sushmitasinha/Documents/SimpleMessenger/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d6649d4418e90c69cb51f18909a99894fa8f5442">
+        <dex dex="/Users/sushmitasinha/Documents/SimpleMessenger/app/build/intermediates/pre-dexed/debug/instant-run_739f7cf067dd52405b35e3b1e4a591b07878bb04.jar" />
+    </item>
+
+</items>
